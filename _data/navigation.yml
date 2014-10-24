@@ -2,15 +2,19 @@
 
 - title: About
   url: /about/
-
-- title: Articles
-  url: /articles/
-
+  
 - title: Blog
   url: /blog/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Guides
+  url: /guides/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Events
+  url: /events/
+  
+- title: Media
+  url: /media/
+
+- title: Contact
+  url: /contact/
+  

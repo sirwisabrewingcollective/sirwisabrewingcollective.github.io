@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Sirwisa Brewing Collective
 locale: en_US
-description: Describe your website here.
+description: We work together to further the love of brewing and support the community we live in.
 logo: site-logo.png
 search: true
 url: 
@@ -32,16 +32,16 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Sirwisa Brewing Collective
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: info@sirwisabrewingcollective.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: SirwisaBrewing
+  facebook: sirwisabrewingcollective
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  instagram: sirwisabrewingcollective
   flickr: #username
   tumblr: #username
   google:
