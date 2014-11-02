@@ -5,4 +5,15 @@ excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
-The
+Sirwisa Brewing Collective members have participated in charity events for many great nonprofits. These include:
+
+* [http://familyhouseinc.org/](Family House)
+* [http://www.rescue.org/](International Rescue Committee)
+* [http://www.idex.org/](International Development Exchange)
+* [http://nighttrainswimmers.org/](Night Train Swimmers)
+* Offerings
+* [http://www.sftu.org/](San Francisco Tenants Union)
+
+If you are a nonprofit in the San Francisco Bay Area who are interested in having beer for a charity event or need help organizing an event please contact [charityevents@sirwisabrewingcollective.com](mailto:charityevents@sirwisabrewingcollective.com "Charity Event").
+
+We also wrote some Instructions for Nonprofits wishing to pour homebrew at fundraisers.
