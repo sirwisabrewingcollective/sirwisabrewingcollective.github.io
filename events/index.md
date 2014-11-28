@@ -5,6 +5,10 @@ excerpt: "Here are groups we suppor. If you are interested in donated beer for c
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
+Interested in hearing about future Sirwisa Brewing Collective events? Join the meetup group!
+
+<div markdown="0"><a href="http://www.meetup.com/Sirwisa-Brewing-Collective" class="btn">Sirwisa Brewing Collective's Meetup Group</a></div>
+
 Sirwisa Brewing Collective members have participated in charity events for many great nonprofits. These include:
 
 * [http://familyhouseinc.org/](Family House)
